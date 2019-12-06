@@ -1,0 +1,30 @@
+.margin{
+    margin-bottom: 15%;
+    color: #7874f2;
+}
+
+.span{
+    margin-bottom: 10%;
+}
+
+.span-title{
+    color: #7874f2;
+    font-weight: bold;
+}
+
+.span-field{
+    font-weight: 430;
+}
+
+.button{
+    text-align: right;
+    margin-bottom: 5%;
+    margin-right: 4%;
+}
+
+button{
+    color: #7874f2;
+    border-radius: 15%;
+    font-weight: 580;
+    background-color: white;
+}

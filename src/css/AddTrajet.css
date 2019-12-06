@@ -1,0 +1,10 @@
+input[type=number]{
+    margin: 5px; 
+    padding: 15px 32px;
+}
+
+input[type=date]{
+    margin: 5px; 
+    padding: 15px 32px;
+}
+
